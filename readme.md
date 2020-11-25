@@ -1,6 +1,11 @@
+# IT Support Email Generator (java)
 
 IT Support Administration app that creates email accounts for new hires:
 
+![test](/apptest.gif)
+
+
+Does the following:
 - Auto generate email with following syntax: "<firstname>.<lastname>@<department>.<company>.com"
 
 - Determine the department, blank if none
